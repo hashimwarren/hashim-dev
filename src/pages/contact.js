@@ -1,9 +1,12 @@
 import React from 'react'
 import Footer from '../components/footer'
+import Header from '../components/header'
+
 
 const ContactPage = () => {
     return (
         <div>
+            <Header />
             <h1>Contact Hashim Warren</h1>
             <p>email me at me@hashim.dev</p>
             <p>Tweet me <a href="https://twitter.com/hashim_warren">@hashim_warren</a></p>
