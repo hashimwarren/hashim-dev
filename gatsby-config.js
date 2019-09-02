@@ -6,18 +6,18 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Full Stack Marketer',
-    author: 'Hashim Warren'
+    title: "Full Stack Marketer",
+    author: "Hashim Warren",
   },
   plugins: [
-    'gatsby-plugin-sass',
+    "gatsby-plugin-sass",
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
-        name: 'src',
-        path: `${__dirname}/src/`
-      }
+        name: "src",
+        path: `${__dirname}/src/`,
+      },
     },
-    'gatsby-transformer-remark'
-  ]
+    "gatsby-transformer-remark",
+  ],
 }
