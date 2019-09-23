@@ -5,6 +5,8 @@ date: "2019-08-07"
 
 You will learn about me.
 
+![Park Sky ](./park-sky.jpg)
+
 ## Bio Information
 
 1. Born: Harlem, USA
